@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ReectApp</string>
+    <string name="navigation_drawer_open">Открыть окно навигации</string>
+    <string name="navigation_drawer_close">Закрыть окно навигации</string>
+    <string name="nav_header_title">пользователь</string>
+    <string name="nav_header_subtitle">не зарегестрирован</string>
+    <string name="nav_header_desc">Навигации</string>
+    <string name="action_settings">Пасхалки</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_gallery">какай-то новая фигня</string>
+    <string name="menu_slideshow">другая фигня</string>
+
+    <string name="fragment_gallery">почему-то тут мгла быть галерея</string>
+</resources>
